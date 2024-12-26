@@ -61,6 +61,7 @@
   border: 0;
   outline: 0;
   border-radius: 9999px;
+  padding: 0;
   transition: transform 100ms ease-in-out;
 }
 
@@ -158,6 +159,8 @@ a.article{
   border: 0;
   cursor: pointer;
   border-radius: 8px;
+  padding: 0;
+  white-space: nowrap;
   width: 2.5em;
   letter-spacing: 1px;
   height: 2.5em;
