@@ -140,6 +140,7 @@ a.article{
   justify-content: center;
   align-items: center;
   align-content: center;
+  white-space: nowrap;
 }
 
 [data-family="serif"] .reader-controls > #font-control { 
